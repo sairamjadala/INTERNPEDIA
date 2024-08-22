@@ -1,5 +1,5 @@
 # INTERNPEDIA
-# tast 2, password generator
+# tast 3, password generator
 import secrets
 import string
 import pyperclip
